@@ -17,14 +17,20 @@ A user-friendly website which helps students to manage academics by providing a 
 
 ## Screenshots
 
-### Home Page
-![Home Page Screenshot](path/to/your/home-page-screenshot.png)
+### Home Page (Typing Effect)
+![Screenshot 2025-06-22 003242](https://github.com/user-attachments/assets/66d0c2b9-414b-4cf2-8efd-14f8d3b64474)
 
 ### User List (Logged In)
-![Users Page Screenshot](path/to/your/users-page-screenshot.png)
+![Screenshot 2025-06-22 003502](https://github.com/user-attachments/assets/64b4a6f8-62b0-4f8b-9bdc-4a3e962bdb85)
 
-### Login/Signup Example
-![Login/Signup Page Screenshot](path/to/your/login-signup-screenshot.png)
+### Dashboard
+![Screenshot 2025-06-22 003537](https://github.com/user-attachments/assets/bc4dcf32-7a30-435e-a1f0-c19a4e38d431)
+
+### Login (Dark Mode)
+![Screenshot 2025-06-22 003644](https://github.com/user-attachments/assets/f97228b3-78ae-49f5-9446-92d45b5c9dc7)
+
+### Signup (Dark Mode)
+![Screenshot 2025-06-22 003743](https://github.com/user-attachments/assets/1971b991-2acf-492a-8eb6-6b245c34fd6a)
 
 ---
 
