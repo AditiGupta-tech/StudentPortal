@@ -22,7 +22,7 @@ function Navbar() {
             alt="Student Portal Logo"
             className="h-12 w-auto"
           />
-          <span className="hidden sm:inline">Student Portal</span>
+          <span className="sm:inline">Student Portal</span>
         </Link>
       </h1>
 

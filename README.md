@@ -72,6 +72,7 @@ yarn start
 * Consistency for light/dark modes
 * Fetching API data with loading and error states
 * Conditional rendering of navbar links based on logged in/logged out
+* Adding good CSS 
 
 ---
 
@@ -81,6 +82,7 @@ yarn start
 * Clean, responsive designs and mode toggles with tailwind
 * Conditional renderings (using correct conditions)
 * Using correct functions and conditions
+* Discovered SVGs, typing effect and worked with good CSS design.
 
 ---
 
