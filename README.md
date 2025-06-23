@@ -1,6 +1,7 @@
 # Student Portal
 
 A user-friendly website which helps students to manage academics by providing a clean UI.
+Live website : https://student-portal-ag21s-projects.vercel.app/
 
 ---
 
